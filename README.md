@@ -6,6 +6,15 @@
 - 😄 Pronomes: ele/dele
 
 <div>
+  
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroEliasM&theme=gotham)
+
+</div>
+  <div>
+  <a href="https://github.com/PedroEliasM">
+</div>
+
+<div>
   <a href="https://github.com/PedroEliasM">
   <img align="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEliasM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
