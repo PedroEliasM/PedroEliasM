@@ -1,7 +1,7 @@
 ### Oiii! Eu sou o Pedro 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 Estudando ReactJS
+- 🌱 Estudando 
 - 📫 Contate-me no email:
 - 😄 Pronomes: ele/dele
 
