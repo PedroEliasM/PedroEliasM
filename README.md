@@ -1,9 +1,8 @@
 ### Oiii! Eu sou o Pedro 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 Estudando 
+- 🌱 I'm studying with a focus on backend
 - 📫 Contate-me no email:
-- 😄 Pronomes: ele/dele
 
 <div>
   
