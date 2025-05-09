@@ -1,9 +1,9 @@
 ### Oiii! Eu sou o Pedro 👋
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I'm studying with a focus on backend
 - 📫 Contate-me no email:
-
+-->
 <div>
   
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroEliasM&theme=gotham)
